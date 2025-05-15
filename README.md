@@ -3,7 +3,7 @@
 
 ### File:
 ```
-nfa_to_dfa.py
+task1.py
 ```
 
 ### Description:
@@ -27,7 +27,7 @@ python task1
 
 ### File:
 ```
-unary_turing_machine.py
+task3.py
 ```
 
 ### Description:
